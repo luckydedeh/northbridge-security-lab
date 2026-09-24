@@ -79,7 +79,7 @@ Result: the firewall is active and persists across reboots, with OpenSSH allowed
 
    ## Verification
 
-   ![lnx01 kernel, user groups, and firewall status](screenshots/02-kernel-users-firewall.png)
+   ![lnx01 kernel, user groups, and firewall status](02-kernel-users-firewall.png)
    
 ## Lessons Learned
 
