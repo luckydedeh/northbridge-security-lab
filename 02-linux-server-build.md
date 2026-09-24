@@ -76,6 +76,11 @@ sudo ufw status
 
 Result: the firewall is active and persists across reboots, with OpenSSH allowed over IPv4 and IPv6 and all other inbound traffic denied by default.
 
+
+   ## Verification
+
+   ![lnx01 kernel, user groups, and firewall status](screenshots/02-kernel-users-firewall.png)
+   
 ## Lessons Learned
 
 - Kernel updates don't take effect until a reboot, so verify the running version afterward.
